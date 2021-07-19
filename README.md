@@ -7,7 +7,6 @@ I didnt have any forethought in the way the directories were named, and how they
 Table of Contents
 
 [Project Overview](#Project-Overview) 
-
 [Account Basics](#Account-Basics) [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics)
 
 # Project Overview
