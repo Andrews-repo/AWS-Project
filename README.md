@@ -6,8 +6,8 @@ I didnt have any forethought in the way the directories were named, and how they
 
 Table of Contents
 
-[Project Overview](#Project-Overview) 
-[Account Basics](#Account-Basics) [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics)
+1.[Project Overview](#Project-Overview) 
+2.[Account Basics](#Account-Basics) [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics)
 
 # Project Overview
 I needed a project to learn AWS services after being certified. I found this [post](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/), which roughly states:
