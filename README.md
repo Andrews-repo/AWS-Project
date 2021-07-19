@@ -4,10 +4,20 @@ Thanks for checking out my repo.
 This repo is where I store all the code I write and use to build things within AWS.
 I didnt have any forethought in the way the directories were named, and how they would appear long term, so I will attempt to guide you through what you're looking at with links below. 
 
-Table of Contents
+# Table of Contents
 
-1.[Project Overview](#Project-Overview) 
-2.[Account Basics](#Account-Basics) [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics)
+[Project Overview](#Project-Overview) 
+
+[Account Basics](#Account-Basics): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics)
+
+[Web Hosting Basics](#Web-hosting-basics): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Basic%20Web%20Host)
+
+[Auto Scaling](#auto-scaling): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/AutoScaling)
+
+[External Data](#External Data): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data)
+
+[Web Hosting Platform-as-a-Service](#web-hosting:-platform-as-a-service) [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
+
 
 # Project Overview
 I needed a project to learn AWS services after being certified. I found this [post](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/), which roughly states:
@@ -16,25 +26,27 @@ I needed a project to learn AWS services after being certified. I found this [po
 The idea for said web appliaction, is a "Fortune of the day" site. A page that, on site load, loads a random fortune from a database, and allows users to add their own fortune to said database.  
 
 # Account Basics
-[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics).
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics)
 
 This section was focused around setting up a new account and establishing basic AWS security and account recomendations. It has been automated via cloudformation, but I do need to come back and document how to do some of these things via the CLI.
 
-
-[Web Hosting Basics](https://github.com/Andrews-repo/AWS-Project/tree/master/Basic%20Web%20Host).
+# Web Hosting Basics
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Basic%20Web%20Host)
 
 I think "web hosting basics" is pretty vague. This could incorporate reverse proxies, as well as being able to create a VPC network. I am going to assume both, and need to add script to automate both of these. What is done, is the script to automate a basic static website hosted with apache.  I would like to add the automation of an AMI snapshot. 
 
-
-[Auto Scaling](https://github.com/Andrews-repo/AWS-Project/tree/master/AutoScaling).
+# Auto Scaling
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/AutoScaling)
 
 I have two scripts that automate the previous website, from an AMI,  into both target target tracking and simple scaling policies from a launchtemplate.
 
-[External Data](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data).
+# External Data
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data)
 
 This one has been tough, i got stuck a couple different times. Once i was troubleshooting a syntax error for far too long, simply overlooking the error. The other issue, is that secondary instances of my website overwrite each others entries. I have some ideas on how to solve it, seemingly issues with my node.js, but ill save that for later when I do deep dives on different code languages. 
 
-[Web Hosting Platform-as-a-Service](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
+# Web Hosting Platform-as-a-Service
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
 
 I havent started this yet but ive played with some of the technologies in a few other projects. Will be starting ASAP
 
