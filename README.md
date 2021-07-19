@@ -19,7 +19,7 @@ The "Title" links, take you to a breif descrption of what I needed to do/learn.
 
 [External Data](#External-Data): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data)
 
-[Web Hosting: Platform as a Service](#web-hosting:-platform-as-a-service): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
+[Web Hosting: Platform as a Service](#web-hosting-:-platform-as-a-service): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
 
 [Microservices](#Microservices): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices)
 
@@ -29,7 +29,7 @@ The "Title" links, take you to a breif descrption of what I needed to do/learn.
 
 [Automation](#Automation)
 
-[Continuous Delivery](#Continuous-Delivery) Continuous Delivery [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/CICD)
+[Continuous Delivery](#Continuous-Delivery): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/CICD)
 
 # Project Overview
 I needed a project to learn AWS services after being certified. I found this [post](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/), which roughly states:
