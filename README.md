@@ -89,6 +89,7 @@ Theres no link to this section as part of the entire point of working with the c
 Havent started, but ive used CodePipeline before so Im brainstorming when i could start implementing it again. 
 
 # Miscellaneous and Bonus
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Miscellaneous%20and%20Bonus)
 
 Im half way through this section will update with more details. 
 
