@@ -19,7 +19,7 @@ The "Title" links, take you to a breif descrption of what I needed to do/learn.
 
 [External Data](#External-Data): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data)
 
-[Web Hosting: Platform as a Service](#web-hosting-:-platform-as-a-service): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
+[Web Hosting Platform as a Service](#web-hosting-platform-as-a-service): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
 
 [Microservices](#Microservices): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices)
 
@@ -57,7 +57,7 @@ I have two scripts that automate the previous website, from an AMI,  into both t
 
 This one has been tough, i got stuck a couple different times. Once i was troubleshooting a syntax error for far too long, simply overlooking the error. The other issue, is that secondary instances of my website overwrite each others entries. I have some ideas on how to solve it, seemingly issues with my node.js, but ill save that for later when I do deep dives on different code languages. 
 
-# Web Hosting: Platform as a Service
+# Web Hosting Platform as a Service
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
 
 Done. Will be updating a small description here soon.
