@@ -16,8 +16,17 @@ I didnt have any forethought in the way the directories were named, and how they
 
 [External Data](#External-Data): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data)
 
-[Web Hosting: Platform as a Service](#web-hosting:-platform-as-a-service) [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
+[Web Hosting: Platform as a Service](#web-hosting:-platform-as-a-service): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
 
+[Microservices](#Microservices): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices)
+
+[Serverless](#Serverless): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Serverless)
+
+[Cost Analysis](#Cost-Analysis): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Cost%20Analysis)
+
+[Automation](#Automation)
+
+[Continuous Delivery](#Continuous-Delivery) Continuous Delivery [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/CICD)
 
 # Project Overview
 I needed a project to learn AWS services after being certified. I found this [post](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/), which roughly states:
@@ -48,25 +57,29 @@ This one has been tough, i got stuck a couple different times. Once i was troubl
 # Web Hosting Platform as a Service
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
 
-I havent started this yet but ive played with some of the technologies in a few other projects. Will be starting ASAP
+Done. Will be updating a small description here soon.
 
-[Microservices](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices).
+# Microservices
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices)
 
-Havent Started.
+Half way done. need to get rid of server.
 
-[Serverless](https://github.com/Andrews-repo/AWS-Project/tree/master/Serverless).
-
-Havent Started. 
-
-[Cost Analysis](https://github.com/Andrews-repo/AWS-Project/tree/master/Cost%20Analysis).
+# Serverless
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Serverless)
 
 Havent Started. 
 
-Automation
+# Cost Analysis
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Cost%20Analysis)
+
+Havent Started. 
+
+# Automation
 
 Theres no link to this section as part of the entire point of working with the cloud is automation, and thats all listed here. If I do add this section it will be to showcase some new automation technology I havent done before like ansible. 
 
-[Continuous Delivery](https://github.com/Andrews-repo/AWS-Project/tree/master/CICD).
+# Continuous Delivery
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/CICD)
 
 Havent started, but ive used CodePipeline before so Im brainstorming when i could start implementing it again. 
 
