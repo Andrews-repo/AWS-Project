@@ -31,6 +31,8 @@ The "Title" links, take you to a breif descrption of what I needed to do/learn.
 
 [Continuous Delivery](#Continuous-Delivery): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/CICD)
 
+[Miscellaneous and Bonus](#Miscellaneous-and-Bonus)
+
 # Project Overview
 I needed a project to learn AWS services after being certified. I found this [post](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/), which roughly states:
 "This uses a website as an excuse to use a number of AWS technologies. Its a rough guide of the the maturity process of the most basic webpafe, to an extremely cheap and scalable web application."
@@ -86,5 +88,8 @@ Theres no link to this section as part of the entire point of working with the c
 
 Havent started, but ive used CodePipeline before so Im brainstorming when i could start implementing it again. 
 
+# Miscellaneous and Bonus
+
+Im half way through this section will update with more details. 
 
 
