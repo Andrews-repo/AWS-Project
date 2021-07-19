@@ -57,17 +57,17 @@ I have two scripts that automate the previous website, from an AMI,  into both t
 # External Data
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data)
 
-This one has been tough, i got stuck a couple different times. Once i was troubleshooting a syntax error for far too long, simply overlooking the error. The other issue, is that secondary instances of my website overwrite each others entries. I have some ideas on how to solve it, seemingly issues with my node.js, but ill save that for later when I do deep dives on different code languages. 
+I didnt know how to write an app, but after digging thru the internet I found [someone else]() who was attempting the project, and he had an example I could use. Trouble was, I didnt know how to use it. I knew an index.html could be used in apache and I struggled for a while. Eventually I learned NodeJS, and got it up and running. I was stuck for a long time here, and eventually buckled down and learned web design and javascript, and was able to move forward. I have some websites I made in that process I'll link here:   
 
 # Web Hosting Platform as a Service
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
 
-Done. Will be updating a small description here soon.
+Got to move the project into Elastic Beanstalk. There was some challenges as far as getting the configuration files set properly. Got to learn how to serve files from private S3 buckets. Learned Route53 and setting domain names. Learned TLS/SSl and forcing https in AWS. 
 
 # Microservices
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices)
 
-Half way done. need to get rid of server.
+Set up an API that posts to DynamoDB, and translates responses to clean JSON. Restructured Javascript inside app to begin move to serveless. 
 
 # Serverless
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Serverless)
