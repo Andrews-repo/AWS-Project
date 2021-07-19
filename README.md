@@ -9,7 +9,7 @@ The "Title" links, take you to a breif descrption of what I needed to do/learn.
 
 # Table of Contents
 
-[Project Overview](#Project-Overview) 
+*[Project Overview](#Project-Overview) 
 
 [Account Basics](#Account-Basics): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics)
 
