@@ -1,4 +1,4 @@
-# AWS-Project
+# Hello
 Hey,
 Thanks for checking out my repo.
 This repo is where I store all the code I write and use to build things within AWS.
@@ -6,41 +6,17 @@ I didnt have any forethought in the way the directories were named, and how they
 
 Table of Contents
 
-[Description](#Description)
+[Project Overview](#Project-Overview) 
+[Account Basics](#Account-Basics) [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics)
 
-# Description
-I needed a project to learn AWS services after being certified. I found this [post](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/). 
+# Project Overview
+I needed a project to learn AWS services after being certified. I found this [post](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/), which roughly states:
+"This uses a website as an excuse to use a number of AWS technologies. Its a rough guide of the the maturity process of the most basic webpafe, to an extremely cheap and scalable web application."
 
+The idea for said web appliaction, is a "Fortune of the day" site. A page that, on site load, loads a random fortune from a database, and allows users to add their own fortune to said database.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# AWS Project
-
-https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/
-
-Project Overview
-This uses a website as an excuse to use all the technologies AWS puts at your fingertips. The concepts you will learn going through these exercises apply all over AWS.
-
-This guide takes you through a maturity process from the most basic webpage to an extremely cheap scalable web application. 
-
-Need an idea? Here: Fortune-of-the-Day - Display a random fortune each page load, have a box at the bottom and a submit button to add a new fortune to the random fortune list.
-
-[Account Basics](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics).
+# Account Basics
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics).
 
 This section was focused around setting up a new account and establishing basic AWS security and account recomendations. It has been automated via cloudformation, but I do need to come back and document how to do some of these things via the CLI.
 
