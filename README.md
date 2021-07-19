@@ -9,29 +9,29 @@ The "Title" links, take you to a breif descrption of what I needed to do/learn.
 
 # Table of Contents
 
-*[Project Overview](#Project-Overview) 
+* [Project Overview](#Project-Overview) 
 
-[Account Basics](#Account-Basics): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics)
+* [Account Basics](#Account-Basics): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics)
 
-[Web Hosting Basics](#Web-hosting-basics): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Basic%20Web%20Host)
+* [Web Hosting Basics](#Web-hosting-basics): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Basic%20Web%20Host)
 
-[Auto Scaling](#auto-scaling): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/AutoScaling)
+* [Auto Scaling](#auto-scaling): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/AutoScaling)
 
-[External Data](#External-Data): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data)
+* [External Data](#External-Data): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data)
 
-[Web Hosting Platform as a Service](#web-hosting-platform-as-a-service): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
+* [Web Hosting Platform as a Service](#web-hosting-platform-as-a-service): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
 
-[Microservices](#Microservices): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices)
+* [Microservices](#Microservices): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices)
 
-[Serverless](#Serverless): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Serverless)
+* [Serverless](#Serverless): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Serverless)
 
-[Cost Analysis](#Cost-Analysis): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Cost%20Analysis)
+* [Cost Analysis](#Cost-Analysis): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Cost%20Analysis)
 
-[Automation](#Automation)
+* [Automation](#Automation)
 
-[Continuous Delivery](#Continuous-Delivery): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/CICD)
+* [Continuous Delivery](#Continuous-Delivery): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/CICD)
 
-[Miscellaneous and Bonus](#Miscellaneous-and-Bonus): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Miscellaneous%20and%20Bonus)
+* [Miscellaneous and Bonus](#Miscellaneous-and-Bonus): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Miscellaneous%20and%20Bonus)
 
 # Project Overview
 I needed a project to learn AWS services after being certified. I found this [post](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/), which roughly states:
