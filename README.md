@@ -11,15 +11,15 @@ The "Title" links, take you to a breif descrption of what I needed to do/learn.
 
 * [Project Overview](#Project-Overview) 
 
-* [Account Basics](#Account-Basics): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics)
+* [Account Basics](#Account-Basics): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics) "Done"
 
-* [Web Hosting Basics](#Web-hosting-basics): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Basic%20Web%20Host)
+* [Web Hosting Basics](#Web-hosting-basics): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Basic%20Web%20Host) "Done"
 
-* [Auto Scaling](#auto-scaling): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/AutoScaling)
+* [Auto Scaling](#auto-scaling): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/AutoScaling) "Done"
 
-* [External Data](#External-Data): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data)
+* [External Data](#External-Data): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data) "Done"
 
-* [Web Hosting Platform as a Service](#web-hosting-platform-as-a-service): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
+* [Web Hosting Platform as a Service](#web-hosting-platform-as-a-service): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service) "Done"
 
 * [Microservices](#Microservices): [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices)
 
