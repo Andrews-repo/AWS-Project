@@ -52,7 +52,7 @@ Learned NGINX, and set up a reverse proxy. Learned VPC. Automated the set up of 
 # Auto Scaling
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/AutoScaling)
 
-I have two scripts that automate the previous website, from an AMI, into both target target tracking and simple scaling policies from a launchtemplate.
+I have two scripts that automate the previous website, from an AMI, into both target tracking, and simple scaling policies from a launchtemplate.
 
 # External Data
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data)
