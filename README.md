@@ -67,7 +67,7 @@ Got to move the project into Elastic Beanstalk. There was some challenges as far
 # Microservices
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices) "Done"
 
-Built an API with NodeJS, and anoter with api gateway. Really had to figure out how to use express. Learned a little bit of jQuery. Learned how to host sites in S3 that run css and JS. Learned how to set domains to CloudFront and resolve CNAME to Cloudfront Distributions. The backend of the code Is done, the front end needs a little tidying up that I will do soon. 
+Built an API with NodeJS, and another with api gateway. Really had to figure out how to use express. Learned a little bit of jQuery. Learned how to host sites in S3 that run css and JS. Learned how to set domains to CloudFront and resolve CNAME to Cloudfront Distributions. The backend of the code Is done, the front end needs a little tidying up that I will do soon. 
 
 # Serverless
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Serverless)
