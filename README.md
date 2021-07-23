@@ -60,14 +60,15 @@ I have two scripts that automate the previous website, from an AMI, into both ta
 Leaned how to set up a NodeJS app. Really learned how to use CloudFormation to set up servers and install software. Learned front end development and built 4-5 webpages. 
 
 # Web Hosting Platform as a Service "Done"
-[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service) "Done"
 
 Got to move the project into Elastic Beanstalk. There was some challenges as far as getting the configuration files set properly. Got to learn how to serve files from private S3 buckets. Learned Route53 and setting domain names. Learned TLS/SSl and forcing https in AWS. 
 
 # Microservices
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices) "Done"
 
-Built an API with NodeJS, and anoter with api gateway. Really had to figure out how to use express. Learned a little bit of jQuery. Learned how to host sites in S3 that run css and JS. Learned how to set domains to CloudFront and resolve CNAME to Cloudfront Distributions. 
+Built an API with NodeJS, and anoter with api gateway. Really had to figure out how to use express. Learned a little bit of jQuery. Learned how to host sites in S3 that run css and JS. Learned how to set domains to CloudFront and resolve CNAME to Cloudfront Distributions. The backend of the code Is done, the front end needs a little tidying up that I will do soon. 
+
 # Serverless
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Serverless)
 
