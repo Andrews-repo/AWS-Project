@@ -40,26 +40,26 @@ I needed a project to learn AWS services after being certified. I found this [po
 The idea for said web appliaction, is a "Fortune of the day" site. A page that, on site load, loads a random fortune from a database, and allows users to add their own fortune to said database.  
 
 # Account Basics
-[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics)
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Account%20Basics) "Done" 
 
 This section was focused around setting up a new account and establishing basic AWS security and account recomendations. It has been automated via CloudFormation, but I do need to come back and document how to do some of these things via the CLI.
 
 # Web Hosting Basics
-[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Basic%20Web%20Host)
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Basic%20Web%20Host) "Done"   
 
 Learned NGINX, and set up a reverse proxy. Learned VPC. Automated the set up of a basic site, VPC, and the install of an NGINX server. 
 
 # Auto Scaling
-[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/AutoScaling)
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/AutoScaling) "Done"
 
 I have two scripts that automate the previous website, from an AMI, into both target tracking, and simple scaling policies from a launchtemplate.
 
 # External Data
-[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data)
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data) "Done"
 
 Leaned how to set up a NodeJS app. Really learned how to use CloudFormation to set up servers and install software. Learned front end development and built 4-5 webpages. 
 
-# Web Hosting Platform as a Service
+# Web Hosting Platform as a Service "Done"
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
 
 Got to move the project into Elastic Beanstalk. There was some challenges as far as getting the configuration files set properly. Got to learn how to serve files from private S3 buckets. Learned Route53 and setting domain names. Learned TLS/SSl and forcing https in AWS. 
