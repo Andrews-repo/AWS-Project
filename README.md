@@ -57,7 +57,7 @@ I have two scripts that automate the previous website, from an AMI, into both ta
 # External Data
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/External%20Data)
 
-I didnt know how to write an app, but after digging thru the internet I found [someone else]() who was attempting the project, and he had an example I could use. Trouble was, I didnt know how to use it. I knew an index.html could be used in apache and I struggled for a while. Eventually I learned NodeJS, and got it up and running. I was stuck for a long time here, and eventually buckled down and learned web design and javascript, and was able to move forward. I have some websites I made in that process I'll link here:   
+Leaned how to set up a NodeJS app. Really learned how to use CloudFormation to set up servers and install software. Learned front end development and built 4-5 webpages. 
 
 # Web Hosting Platform as a Service
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Web%20Hosting%20-%20Platform%20as%20a%20Service)
@@ -65,10 +65,9 @@ I didnt know how to write an app, but after digging thru the internet I found [s
 Got to move the project into Elastic Beanstalk. There was some challenges as far as getting the configuration files set properly. Got to learn how to serve files from private S3 buckets. Learned Route53 and setting domain names. Learned TLS/SSl and forcing https in AWS. 
 
 # Microservices
-[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices)
+[Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Microservices) "Done"
 
-Set up an API that posts to DynamoDB, and translates responses to clean JSON. Restructured Javascript inside app to begin move to serveless. 
-
+Built an API with NodeJS, and anoter with api gateway. Really had to figure out how to use express. Learned a little bit of jQuery. Learned how to host sites in S3 that run css and JS. Learned how to set domains to CloudFront and resolve CNAME to Cloudfront Distributions. 
 # Serverless
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Serverless)
 
