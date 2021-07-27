@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About</title>
+<link rel="stylesheet" href="styles.css">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+</head>
+<body>
+    <ul>
+        <li><a href="https://apcloudtech.com">Home</a></li>
+        <li><a href="/feed">News Feed</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a class="active" href="/about">About</a></li>
+      </ul>
+
+
+      <div class="container2">
+        <p>Hey thanks for stopping by. The site may not look like much at the moment, but it is indeed a work in progess.</p>
+        <p>More specifically, its a project im using to build different parts of the back end using AWS services.</p>
+        <p>Theres a lot more planned as far as adding more pages and cleaning up the styling, but as of right now with this working skeleton, 
+            Im more interested in the backend technologies</p>
+        <p>For more information about the current state of the project, cruise over to my 
+             <a href="https://github.com/Andrews-repo/AWS-Project#Project-Overview">GitHub</a> 
+             or my <a href="https://www.linkedin.com/in/andrew-patty-a2065219b">LinkedIn</a>.
+        </p>
+
+
+      </div>
+
+</body>
+</html>                                 

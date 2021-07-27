@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AWS Feed</title>
+<link rel="stylesheet" href="styles.css">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+</head>
+<body>
+    <ul>
+        <li><a href="https://apcloudtech.com">Home</a></li>
+        <li><a class="active" href="https://apcloudtech.com/feed">News Feed</a></li>
+        <li><a href="https://apcloudtech.com/contact">Contact</a></li>
+        <li><a href="https://apcloudtech.com/about">About</a></li>
+      </ul>
+
+<h1>Coming soon:</h1>
+<p>If all goes well I will *eventually* add a page here that pulls AWS news, as well as posts from top AWS subreddits.</p>
+
+</body>
+</html>
+

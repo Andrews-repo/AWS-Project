@@ -27,7 +27,7 @@ $(document).ready(function() {
         url: 'https://api.apcloudtech.com/',
         success: function(result) {
           console.log(result)
-          $( ".fortune" ).text(result);
+          $( ".added" ).text(result);
         },
         error: function(result) {
           console.log('error', result)
@@ -36,3 +36,4 @@ $(document).ready(function() {
       });                                                                                               
     });
 });
+
