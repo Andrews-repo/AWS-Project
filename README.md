@@ -72,7 +72,14 @@ Built an API with NodeJS, and another with api gateway. Really had to figure out
 # Serverless
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Serverless)
 
-Havent Started. 
+Ok so far this has been fun. Ive never written any python, but it makes alot more sense now after learning JS. Issues so far:
+    - i dont know python 
+    - "Handler 'lambda_handler' missing on module 'lambda_function" 
+        - "fixed" by putting the code In the correct place in a lambda function.
+    - "errorMessage": "name 'boto3' is not defined" 
+        - "fixed" becasue Im silly and forgot to import boto3
+    - "errorMessage": "An error occurred (AccessDenied) when calling the SendEmail operation" 
+        - "fixed" by adding the proper IAM privileges. 
 
 # Cost Analysis
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Cost%20Analysis)
