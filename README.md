@@ -79,7 +79,9 @@ Ok so far this has been fun. Ive never written any python, but it makes alot mor
 - "errorMessage": "name 'boto3' is not defined" 
     - "fixed" becasue Im silly and forgot to import boto3
 - "errorMessage": "An error occurred (AccessDenied) when calling the SendEmail operation" 
-    - "fixed" by adding the proper IAM privileges. 
+    - "fixed" by adding the proper IAM privileges.
+- python "return" exits function after returning first item
+    -Havent fixed currently working on it, I get an email and i get one item from the db. 
 
 # Cost Analysis
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Cost%20Analysis)
