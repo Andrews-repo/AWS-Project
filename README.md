@@ -82,7 +82,7 @@ Ok so far this has been fun. Ive never written any python, but it makes alot mor
 - "errorMessage": "An error occurred (AccessDenied) when calling the SendEmail operation" 
     - "fixed" by adding the proper IAM privileges.
 - python "return" exits function after returning first item
-    -"fixed" using yield and appending items to a variable in python. 
+    - "fixed" using yield and appending items to a variable in python. 
 
 # Cost Analysis
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Cost%20Analysis)
