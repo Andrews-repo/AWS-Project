@@ -73,7 +73,8 @@ Built an API with NodeJS, and another with api gateway. Really had to figure out
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Serverless)
 
 Ok so far this has been fun. Ive never written any python, but it makes alot more sense now after learning JS. Issues so far:
-- i dont know python 
+- i dont know python
+    - "fixed" I can read it and i wrote my first lambda function in Python.
 - "Handler 'lambda_handler' missing on module 'lambda_function" 
     - "fixed" by putting the code In the correct place in a lambda function.
 - "errorMessage": "name 'boto3' is not defined" 
@@ -81,7 +82,7 @@ Ok so far this has been fun. Ive never written any python, but it makes alot mor
 - "errorMessage": "An error occurred (AccessDenied) when calling the SendEmail operation" 
     - "fixed" by adding the proper IAM privileges.
 - python "return" exits function after returning first item
-    -Havent fixed currently working on it, I get an email and i get one item from the db. 
+    -"fixed" using yield and appending items to a variable in python. 
 
 # Cost Analysis
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Cost%20Analysis)
