@@ -5,7 +5,7 @@ This repo is where I store all the code I write and use to build things within A
 I didnt have any forethought in the way the directories were named, and how they would appear long term, so I will attempt to guide you through what you're looking at with links below.
 
 Quick tip: The "Code" links take you to the code used for each assignment/step, as well as the description of each assignment/step.
-The "Title" links, take you to a breif descrption of what I needed to do/learn. 
+The "Title" links, take you to a brief descrption of what I needed to do/learn. 
 
 # Table of Contents
 
