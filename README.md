@@ -72,7 +72,7 @@ Built an API with NodeJS, and another with api gateway. Really had to figure out
 # Serverless
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Serverless)
 
-Ok so far this has been fun. Ive never written any python, but it makes alot more sense now after learning JS. Issues so far:
+Ok so far this has been fun. Issues so far:
 - i dont know python
     - "fixed" I can read it and i wrote my first lambda function in Python.
 - "Handler 'lambda_handler' missing on module 'lambda_function" 
