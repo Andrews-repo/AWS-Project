@@ -96,7 +96,7 @@ Theres no link to this section as part of the entire point of working with the c
 # Continuous Delivery
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/CICD)
 
-Havent started, but ive used CodePipeline before so Im brainstorming when i could start implementing it again. 
+A version of the api code exists and works in CodePipeline, needs some more work, will post back. 
 
 # Miscellaneous and Bonus
 [Code](https://github.com/Andrews-repo/AWS-Project/tree/master/Miscellaneous%20and%20Bonus)
